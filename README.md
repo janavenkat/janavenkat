@@ -8,6 +8,3 @@
 - 🤝 Always open for cooperation
 
 
-<a href="https://github.com/janavenkat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janavenkat&theme=synthwave" />
-</a>
